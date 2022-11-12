@@ -1,0 +1,7 @@
+{
+  "name": "onlinevotingsystem-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
